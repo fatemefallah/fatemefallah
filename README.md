@@ -1,5 +1,5 @@
-- Hi, I’m @fatemefallah and interested in DevOps.
-- I’m currently learning Laravel Framework and DevOps as specialty.
+- Hi, I’m @fatemefallah and interested in Back-End Developing(Django).
+- I’m currently learning the foundemnatal of Django Framework.
 - You can reach me by: Fatemefallah99@gmail.com 
 
 <!---
