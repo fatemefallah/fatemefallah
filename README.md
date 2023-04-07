@@ -1,5 +1,4 @@
-- Hi, I’m @fatemefallah and interested in Back-End Developing(Django).
-- I’m currently learning the foundemnatal of Django Framework.
+- Hi, I’m @fatemefallah, Back-End Developer (Python: Django & FastAPI).
 - You can reach me by: Fatemefallah99@gmail.com 
 
 <!---
