@@ -1,4 +1,4 @@
-- Hi, I’m @fatemefallah, Back-End Developer (Python: Django & FastAPI).
+- Hi, I’m @fatemefallah, Backend Developer (Python: Django & FastAPI).
 - You can reach me by: Fatemefallah99@gmail.com 
 
 <!---
