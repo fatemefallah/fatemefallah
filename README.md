@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as python back-end developer on a Django project.<br>I also looking to collaborate on FastAPI projects.<br>
+I'm currently working as Back-End developer (Python, Django).<br>I also looking to collaborate on Open-Source projects.<br>
 
 
 ## 🌐 Socials:
